@@ -59,9 +59,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Control Scripts\Fireball.cs" />
     <Compile Include="Assets\Control Scripts\FPSInput.cs" />
     <Compile Include="Assets\Control Scripts\MouseLook.cs" />
+    <Compile Include="Assets\Control Scripts\PlayerCharacter.cs" />
+    <Compile Include="Assets\Control Scripts\RayShooter.cs" />
+    <Compile Include="Assets\Control Scripts\ReactiveTarget.cs" />
+    <Compile Include="Assets\Control Scripts\SceneController.cs" />
     <Compile Include="Assets\Control Scripts\Spin.cs" />
+    <Compile Include="Assets\Control Scripts\WanderingAI.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/jonat/OneDrive/Documents/GitHub/UIA_DOOM/UIA_DOOM/Doom/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
